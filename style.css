@@ -37,5 +37,12 @@ html {
 	}
     *{
         text-align: center;
-        text-decoration: wavy;
     }
+	.title{
+		color:rgb(255, 255, 2)
+	  }
+
+	  .text a:hover {
+		color: red;
+		text-decoration: underline; 
+	}
